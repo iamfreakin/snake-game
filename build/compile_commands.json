@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/qjaqj/Desktop/vscode/Projects/snake-game/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\snake-game.dir\\main.cpp.obj -c C:\\Users\\qjaqj\\Desktop\\vscode\\Projects\\snake-game\\main.cpp",
+  "file": "C:/Users/qjaqj/Desktop/vscode/Projects/snake-game/main.cpp",
+  "output": "CMakeFiles/snake-game.dir/main.cpp.obj"
+}
+]
